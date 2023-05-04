@@ -65,4 +65,4 @@ As seguintes dependências são necessárias para executar a API:
 
 ## Autor 
 
-Nicoli Stefai
+Nicoli Stefani

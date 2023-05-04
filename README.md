@@ -62,6 +62,10 @@ As seguintes dependências são necessárias para executar a API:
   "current_time": "2023-05-04 17:50:00 -03"
 }
 ```
+## Resultado
+
+![resul](https://user-images.githubusercontent.com/20405745/236130052-b55a7ba5-5bdb-4fab-bb26-856299918d15.png)
+
 
 ## Autor 
 
